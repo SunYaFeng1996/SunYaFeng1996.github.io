@@ -1,0 +1,24 @@
+title: Junhong Huang
+url: "https://chatterbox9527.github.io"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/chatterbox9527"
+footer_text: "Page design by Junhong Huang"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Home"
+   link: "/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
