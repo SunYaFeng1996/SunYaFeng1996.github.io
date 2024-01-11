@@ -7,7 +7,7 @@ title: 孙亚峰的主页
 
 <img class="profile-picture" src="personal_photo.png">
 
-我目前就读于吉林大学，作为人工智能领域的新手和科研小白，我正在努力提升自己。
+我目前就读于吉林大学，作为人工智能领域的新手和科研小白，我正在努力提升自己。如果您和我的研究兴趣重合，欢迎与我交流！
 
 ## 研究兴趣
 
@@ -23,7 +23,7 @@ title: 孙亚峰的主页
 
 ## 近期成果
 
-1. Wang X, Sun Y, Chen X, et al. DDEP: Evolutionary Pruning using Distilled Dataset[J]. Information Sciences, 2024: 120048.[paper](https://www.sciencedirect.com/science/article/pii/S0020025523016341)
-2. Li W, Sun B, Sun Y, et al. DC-SHADE-IF: An infeasible–feasible regions constrained optimization approach with diversity controller[J]. Expert Systems with Applications, 2023, 224: 119999.[paper](https://www.sciencedirect.com/science/article/pii/S0957417423005018)
+1. Yafeng Sun et al. DDEP: Evolutionary Pruning using Distilled Dataset[J]. Information Sciences, 2024: 120048.[paper](https://www.sciencedirect.com/science/article/pii/S0020025523016341)
+2. Yafeng Sun et al. DC-SHADE-IF: An infeasible–feasible regions constrained optimization approach with diversity controller[J]. Expert Systems with Applications, 2023, 224: 119999.[paper](https://www.sciencedirect.com/science/article/pii/S0957417423005018)
 
  
