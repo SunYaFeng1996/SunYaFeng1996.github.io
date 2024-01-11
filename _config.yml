@@ -1,5 +1,5 @@
-title: Junhong Huang
-url: "https://chatterbox9527.github.io"
+title: Sun Yafeng
+url: "https://sunyafeng1996.github.io"
 baseurl: ""
 
 markdown: kramdown
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/chatterbox9527"
-footer_text: "Page design by Junhong Huang"
+footer_url: "https://github.com/sunyafeng1996"
+footer_text: "Page copyright@ Junhong Huang"
 
 sass:
     style: compressed
