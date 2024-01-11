@@ -5,7 +5,7 @@ title: 孙亚峰的主页
 
 ## 自述
 
-<img class="profile-picture" src="personal_photo.jpg">
+<img class="profile-picture" src="personal_photo.png">
 
 我目前就读于吉林大学，作为人工智能领域的新手和科研小白，我正在努力提升自己。
 
