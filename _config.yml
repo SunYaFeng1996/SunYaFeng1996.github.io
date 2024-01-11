@@ -1,4 +1,4 @@
-title: Sun Yafeng
+title: 孙亚峰
 url: "https://sunyafeng1996.github.io"
 baseurl: ""
 
@@ -18,7 +18,7 @@ sass:
 nav:
  - name: "首页"
    link: "/"
- - name: "研究兴趣"
-   link: "interest"
- - name: "Contact"
+ - name: "学术论文"
+   link: "papers"
+ - name: "联系我"
    link: "contact"

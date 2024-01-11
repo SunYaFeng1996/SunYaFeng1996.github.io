@@ -3,7 +3,7 @@ layout: default
 title: 孙亚峰的主页
 ---
 
-## About me
+## 自述
 
 <img class="profile-picture" src="personal_photo.jpg">
 
