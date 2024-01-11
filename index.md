@@ -23,7 +23,7 @@ title: 孙亚峰的主页
 
 ## 近期成果
 
-1. Yafeng Sun et al. DDEP: Evolutionary Pruning using Distilled Dataset[J]. Information Sciences, 2024: 120048.[paper](https://www.sciencedirect.com/science/article/pii/S0020025523016341)
-2. Yafeng Sun et al. DC-SHADE-IF: An infeasible–feasible regions constrained optimization approach with diversity controller[J]. Expert Systems with Applications, 2023, 224: 119999.[paper](https://www.sciencedirect.com/science/article/pii/S0957417423005018)
+1. Yafeng Sun et al. DDEP: Evolutionary Pruning using Distilled Dataset[J]. Information Sciences, 2024: 120048. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025523016341)]
+2. Yafeng Sun et al. DC-SHADE-IF: An infeasible–feasible regions constrained optimization approach with diversity controller[J]. Expert Systems with Applications, 2023, 224: 119999. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423005018)]
 
  
