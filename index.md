@@ -1,40 +1,29 @@
 ---
 layout: default
-title: Junhong Huang's Homepage
+title: 孙亚峰的主页
 ---
 
 ## About me
 
 <img class="profile-picture" src="personal_photo.jpg">
 
-Hi! I am a 1st year student of Ph.D. Computer Science and Technology at Jilin University, Changchun. 
+我目前就读于吉林大学，作为人工智能领域的新手和科研小白，我正在努力提升自己。
 
-Simplicity is the ultimate sophistication. --- Leonardo da Vinci
+## 研究兴趣
 
-## News
+- 深度学习
+- 推理优化
+- 计算智能
 
-> Comming soon...
+## 教育经历
 
-## Research Interests
+- 2022.09 - now: 吉林大学计算机科学与技术学院, 博士研究生在读
+- 2019.05 - 2022.06: 江西理工大学，硕士
+- 2015.09 - 2019.06: 聊城大学，学士
 
-- Underwater wireless sensor networks
-- Visible light communication
-- Computational intelligence
+## 近期成果
 
-## Education
-
-- 09/2023 - now: Ph.D. student in College of Computer Science and Technology, Jilin University
-- 09/2019 - 06/2022: M.Eng. student in School of Computer and Information Engineering, Jiangxi Normal University
-- 09/2015 - 06/2019: B.Eng. student in School of Computer and Information Engineering, Jiangxi Normal University
-
-## Work Experiences
-
-- 7/2022-06/2023: Teacher in School of Information Engineering, Jiangxi University of Science and Technology, China
-
-## Publications
-
-1. Xinyu Zhou, **Junhong Huang<sup>*</sup>**, Hu Peng, Hui Wang, Feng Wang. Differential Evolution Algorithm Based on Adaptive Bi-coordinate Systems for Mixed-variable Optimization Problem. Chinese Journal of Computers. (Minor revise)
-2. Xinyu Zhou, **Junhong Huang**, Hao Tang, Mingwen Wang. [Artificial bee colony algorithm with bi-coordinate systems for global numerical optimization](https://onlinelibrary.wiley.com/doi/10.1002/int.22816). International Journal of Intelligent Systems, 37(9): 5816-5858, 2022.
-3. Xinyu Zhou, Jiaxin Lu, **Junhong Huang**, Maosheng Zhong, Mingwen Wang. [Enhancing Artificial Bee Colony Algorithm with Multi-elite Guidance](https://www.sciencedirect.com/science/article/pii/S0020025520307003). Information Sciences, 543: 242-258, 2021.
+1. Wang X, Sun Y, Chen X, et al. DDEP: Evolutionary Pruning using Distilled Dataset[J]. Information Sciences, 2024: 120048.[paper](https://www.sciencedirect.com/science/article/pii/S0020025523016341)
+2. Li W, Sun B, Sun Y, et al. DC-SHADE-IF: An infeasible–feasible regions constrained optimization approach with diversity controller[J]. Expert Systems with Applications, 2023, 224: 119999.[paper](https://www.sciencedirect.com/science/article/pii/S0957417423005018)
 
  
